@@ -4,6 +4,6 @@ This repository contains a historical list of Cobalt Strike (or NanoHTTPD) hosts
 
 The list is a CSV file with `ip, port, first_seen, last_seen` pairs, starting from 2015-01 till 2019-02-26 and can be found here:
 
- * [cobaltstrike-servers.csv](cobaltstrike-servers.csv)
+ * [cobaltstrike-servers.csv](cobaltstrike-servers.csv) ([download link](https://raw.githubusercontent.com/fox-it/cobaltstrike-extraneous-space/master/cobaltstrike-servers.csv))
 
 The data is derived from Rapid7 Labs OpenData sets which has a historical archive of HTTP and HTTPS scan data: https://opendata.rapid7.com
