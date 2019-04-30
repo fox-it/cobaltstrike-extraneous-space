@@ -6,7 +6,7 @@ Read more about this technique in the following blog post:
 
  * https://blog.fox-it.com/2019/02/26/identifying-cobalt-strike-team-servers-in-the-wild/
 
-The list is a CSV file with `ip, port, first_seen, last_seen` pairs, starting from 2014-01 till 2019-02-26 and can be found here:
+The list is a CSV file with `ip, port, first_seen, last_seen` pairs, starting from 2014-01 till 2019-04-21 and can be found here:
 
  * [cobaltstrike-servers.csv](cobaltstrike-servers.csv) ([raw link](https://raw.githubusercontent.com/fox-it/cobaltstrike-extraneous-space/master/cobaltstrike-servers.csv))
 
